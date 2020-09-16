@@ -1,0 +1,112 @@
+  
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url("red-wallpaper1.jpg");
+  background-color: white
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-family: Comic Sans MS;
+}
+h1{
+  font-family: Comic Sans MS;
+  font-style: bold;
+  color: white;
+  font-size: 50px;
+  margin: 0px;
+  text-align: center;
+  text-shadow: 2px 2px 5px red;
+  
+}
+
+.s1{
+  background-color: transparent;
+  border: 2px solid white;
+  box-shadow: 5px 5px 5px black;;
+  font-family: Helvetica;
+  font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+h5{
+  height:40px;
+  width:120px;
+  float: right;
+  text-align: center;
+  border-left: 2px solid white;
+  border-bottom: 2px solid white;
+  font-family: Comic Sans MS;
+  font-size: 30px;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+#chicken{
+  background-color: #fff685;
+}
+
+#beef{
+  background-color: #0049B7;
+  color: white;
+}
+
+#sushi{
+  background-color: #00ffa9;
+}
+
+#p1 {
+  width: 100%;
+  color: white;
+  word-wrap: initial;
+  margin: 0px;
+    font-style: bold;
+  font-size: 15px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  margin-top: 45px;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  border: 10px 10px;
+  color: yellow;
+}
+
+#header-nav {
+  background-color: transparent;
+  text-shadow: 2px 2px 5px black;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: transparent;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 2em;
+}
+
+hr {
+  border-color: white;
+  border-width: 3px;
+}
+
+.item {
+  color: white;
+  font-size: 15px;
+}
+
+
